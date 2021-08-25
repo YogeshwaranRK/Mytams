@@ -6,7 +6,7 @@ import {BrowserRouter as Router,Link} from "react-router-dom";
 
 function Nav() {
     const[show,setShow]=useState(false); 
-    const[dark,showDark]=useState(false);
+   
   
     const [cancel,showCancel]=useState(true);
 
